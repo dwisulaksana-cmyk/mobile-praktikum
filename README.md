@@ -30,3 +30,7 @@ flutter run
 ## Status
 
 Proyek awal perkuliahan.
+
+## Pengembangan
+
+Dokumentasi proyek akan diperbarui secara bertahap sesuai dengan perkembangan aplikasi selama perkuliahan.
